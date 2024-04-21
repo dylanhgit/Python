@@ -1,6 +1,6 @@
 class Television:
     """A class to represent a television set with capabilities to change channels, adjust volume, and mute."""
-    
+
     MIN_VOLUME = 0  # Minimum volume level
     MAX_VOLUME = 2  # Maximum volume level
     MIN_CHANNEL = 0  # Minimum channel number
